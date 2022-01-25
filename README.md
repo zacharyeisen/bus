@@ -1,7 +1,7 @@
 1. REAL TIME BUS TRACKER
 2. This file tracks the bus stops between MIT and Harvard.
 How to run: all you need to do to run this program is follow this link:
-[https://zacharyeisen.github.io/PacMan/](https://zacharyeisen.github.io/PacMan/)
+[https://zacharyeisen.github.io/bus/](https://zacharyeisen.github.io/bus/)
 
 1. Roadmap of future improvements: I would like to add more stops going to other important locations in the area: government buildings, museums, etc..
 2. This is licensed under the MIT license, which is as follows:
